@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Background</TITLE>
+</head>
+<body>
+<body bgcolor="#BCD8EC">
+<header>
+<a href="index.html">
+<center><img src="LCNHS12.png" width="800" title="LCNHS - TLE Department"</center>
+</a>
+</header>
+<hr>
+<center>
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td><a href="index.html">Home</a></td>
+<td><a href="Background.html">Background</a></td>
+<td><a href="TLE Teachers with their specialization.html">TLE TEACHERS w/ their specialization</a></td>
+</center>
+</tr>
+</nav>
+</body>
